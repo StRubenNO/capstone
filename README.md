@@ -1,7 +1,9 @@
 # capstone
 Udacity capstone for Machine Laearning course
 
-Report is named "project.pdf"
+Report is named "project.pdf" This file has been updated after initial review. 
+The original Jupyter Notebook "capstone.ipynb" has a new name: "capstone_hyperparameter_tuned.ipynb"
+A new Jupyter Notebook "capstone.ipynb" has been added after review, but with small changes. Even though, this file does not contain the original hyperparameter tunings.
 
 Other main files are those named "capstone.*"
 
